@@ -89,7 +89,7 @@ const Home = () => {
       <footer>
         <h4>
           Built with ❤️ by{" "}
-          <a href="https://github.com/Mamas-Boy"> Graphians </a>
+          <a href="https://github.com/Veer6696"> Graphians </a>
         </h4>
       </footer>
     </div>
